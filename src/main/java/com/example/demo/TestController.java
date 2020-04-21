@@ -59,12 +59,3 @@ public class TestController {
     }
 }
 
-
-//@RestController
-//@RequestMapping("/hello")
-//public class TestController {
-//  @GetMapping
-//  public String testMinio() {
-//    return "hello";
-//  }
-//}
